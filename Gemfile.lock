@@ -2,7 +2,7 @@ PATH
   remote: .
   specs:
     bloggy (0.3)
-      jekyll (~> 1.4.2)
+      jekyll (>= 1.4.2)
       rack-contrib
       rails
 
